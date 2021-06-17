@@ -1,5 +1,5 @@
 <h1 align="center">Hi there:metal:! I'm Amrou</h1>
-<h3 align="center">Software QA Engineer with a profound interest in DevOps based Tunis, Tunisia. </h3>
+<h3 align="center">Software QA Engineer with a profound interest in DevOps. Based in Tunis, Tunisia. </h3>
 - I have a big  interest in <br>
 &nbsp;&nbsp;&nbsp;&nbsp- :computer:Software engineering  ( Specifically: DevOps)<br> 
 &nbsp;&nbsp;&nbsp;&nbsp- :bike:Biking ( Especially mountain biking )<br>
