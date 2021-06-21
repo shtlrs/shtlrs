@@ -7,8 +7,8 @@
 - I'm a learning enthusiast and I’m currently trying to reach an advanced level in python knowledge. <br>
 - I’m looking to collaborate on open source python projects as a begginning in my software engineering career.<br>
 - You can reach me at:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;:email:- Gmail: amr.bellalouna@gmail.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;:link:- Linkedin https://www.linkedin.com/in/amrbellalouna/
+&nbsp;&nbsp;&nbsp;&nbsp;- :email:Gmail: amr.bellalouna@gmail.com<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- :link:Linkedin https://www.linkedin.com/in/amrbellalouna/
 
 
 <!---
