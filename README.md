@@ -1,4 +1,4 @@
-<h1 align="center">Hi there:metal:! I'm Amrou</h1>
+<h1 align="center">Hi there :metal:! I'm Amrou</h1>
 <h3 align="center">Software Engineer with a profound interest in DevOps.</h3>
 <h3 align="center">Core developer @ <a href=https://github.com/python-discord>Python Discord</a>, the hottest Python community on the planet!</h3>
 
