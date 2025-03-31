@@ -1,5 +1,5 @@
 <h1 align="center">Hi there :metal:! I'm Amrou</h1>
-<h3 align="center">Software Engineer @legalstart</h3>
+<h3 align="center">Software Engineer @<a href=https://kraken.tech/>Kraken</a></h3>
 <h3 align="center">Core developer and Devops @<a href=https://github.com/python-discord>Python Discord</a>, the hottest Python community on the planet!</h3>
 
 
